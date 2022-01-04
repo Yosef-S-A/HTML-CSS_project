@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+    background-color: #eee;
+}
+
+#header{
+
+    text-align: center;
+}
+
+#header h1,
+#showcase #image-caption,
+#header #intro,
+#footer #biography,
+#footer #note
+{
+    padding: 10px 0;
+}
+
+#showcase {
+    text-align: center;
+}
+
+#footer {
+    width: 700px;
+    margin: auto;
+}
+
+#footer #biography {
+    text-align: center;
+}
+
